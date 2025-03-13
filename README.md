@@ -1,4 +1,4 @@
-<h1>Jogo do número secreto</h1>
+<h1>Jogo do Amigo Secreto</h1>
 
 <h2>�� Sobre</h2>
 <p>Projeto do amigo secreto desenvolvido no curso Iniciante em Programação.</p>
